@@ -5,7 +5,7 @@
   <br />
   <p>Olá, meu nome é Victor .</p>
   <br />
-  <p> I am a student at UNIMATER college, currently studying a bachelor's degree in Information Systems, 4/8 </p>
+  <p> I am a student at UNIMATER college, currently studying a bachelor's degree in Information Systems, 7/8 </p>
 
 </div>
 <p>
